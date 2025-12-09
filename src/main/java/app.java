@@ -2,6 +2,6 @@ package src.main.java;
 
 public class app {
     public static void main(String[] args) {
-        System.out.println("hello jenkins");
+        System.out.println("helloo jenkins");
     }
 }
